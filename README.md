@@ -9,10 +9,10 @@ Installation instructions
 2. Create the image the as always, from a XIB or initializing with the regular constructors.
 3. You can show an image from an URL this way
 
-    [remoteImageView displayImageFromURL:url
-                       completionHandler:^(NSError *error) {
-                          // Do something 
-                       }];
+        [remoteImageView displayImageFromURL:url
+                           completionHandler:^(NSError *error) {
+                              // Do something 
+                           }];
 
 4. You can see some examples in `ViewController` class.
 
