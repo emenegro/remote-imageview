@@ -6,7 +6,7 @@ Installation instructions
 =========================
 
 1. Import `MNMremoteImageView` files into your project.
-2. Create the image as always, from a XIB or initializing it with the regular constructors.
+2. Create the image view as always, from a XIB or initializing it with the regular constructors.
 3. You can show an image from an URL this way
 
         [remoteImageView displayImageFromURL:url
