@@ -1,4 +1,4 @@
-Replacement for `UIImageView` that asynchronously shows an image downloaded from an URL.
+`MNMRemoteImageView` is a simple drop-in replacement for `UIImageView` that asynchronously shows an image downloaded from an URL. You can use the control as a regular `UIImageView`.
 
 While the download is running an activity indicator is shown over the view. A block is invoked when the image has finishing download.
 
